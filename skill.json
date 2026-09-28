@@ -1,0 +1,9 @@
+{
+  "schema_version": "v1",
+  "name": "genpark-task-dag-critical-path-scheduler-skill",
+  "version": "1.0.0",
+  "description": "Directed Acyclic Graph (DAG) task scheduling engine implementing Critical Path Method (CPM) and slack computation.",
+  "entrypoint": "client.py",
+  "mcp_server": "mcp_server.py",
+  "category": "Service"
+}
